@@ -8,7 +8,7 @@ body {
 }
 
 .section_1 {
-	background-image: url("./public/image/hue.jpg");
+	background-image: url("./public/image/glow2.png");
 	background-size: 1920px 892px;
 	display: inline-block;
 	width: 1920px;
@@ -32,35 +32,11 @@ body {
 	justify-content: center;
 }
 
-.glow_container {
-	position: absolute;
-	top: 0;
-	left: 79px;
-	opacity: 0.5;
-	z-index: 1;
-}
-
-.blue_container {
-	position: absolute;
-	bottom: 0;
-	z-index: 1;
-}
-
-.woman_container {
-	position: absolute;
-	bottom: 0;
-}
-.man_container {
-	position: absolute;
-	right: 0;
-	bottom: 0;
-}
-
 .boxes_container {
 	position: absolute;
 	left: 30%;
 	top: 26%;
-	z-index: 2;
+	z-index: 1;
 }
 
 .text {
