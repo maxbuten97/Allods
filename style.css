@@ -148,7 +148,7 @@ body {
 	margin-top: 9px;
 	display: flex;
 	flex-direction: column;
-	gap: 2px;
+	gap: 1px;
 }
 
 .item {
@@ -163,13 +163,13 @@ body {
 }
 
 .img_item {
-	padding: 6px;
 	width: 64px;
 	height: 64px;
 }
 .img_item_container {
 	display: flex;
 	align-items: center;
+	padding: 6px 0 6px 6px;
 }
 .item__text {
 	color: #fff;
