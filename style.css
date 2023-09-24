@@ -136,7 +136,7 @@ body {
 	display: flex;
 	justify-content: end;
 	gap: 11px;
-	color: rgba(103, 29, 0, 0.48);
+	color: rgba(103, 29, 0, 1);
 }
 
 .free_servers, .sub_server {
